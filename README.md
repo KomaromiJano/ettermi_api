@@ -36,8 +36,8 @@ Ez az étterem foglalási rendszer lehetővé teszi az éttermek és foglalások
 
 1. Klónozd a repót a helyi gépedre:
 ```
-git clone https://github.com/felhasznalonev/etterem-foglalas.git
-cd etterem-foglalas
+git clone https://github.com/KomaromiJano/ettermi_api.git
+cd ettermi_api
 ```
 2. Telepítsd a szükséges csomagokat:
 ```
